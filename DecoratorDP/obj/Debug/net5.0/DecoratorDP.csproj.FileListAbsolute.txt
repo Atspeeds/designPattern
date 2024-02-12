@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\bin\Debug\net5.0\DecoratorDP.exe
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\bin\Debug\net5.0\DecoratorDP.deps.json
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\bin\Debug\net5.0\DecoratorDP.runtimeconfig.json
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\bin\Debug\net5.0\DecoratorDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\bin\Debug\net5.0\DecoratorDP.dll
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\bin\Debug\net5.0\DecoratorDP.pdb
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.dll
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\refint\DecoratorDP.dll
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.pdb
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\DecoratorDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesaginPatterns\DecoratorDP\obj\Debug\net5.0\ref\DecoratorDP.dll

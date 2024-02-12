@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\bin\Debug\net5.0\FacadeDP.exe
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\bin\Debug\net5.0\FacadeDP.deps.json
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\bin\Debug\net5.0\FacadeDP.runtimeconfig.json
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\bin\Debug\net5.0\FacadeDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\bin\Debug\net5.0\FacadeDP.dll
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\bin\Debug\net5.0\FacadeDP.pdb
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.dll
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\refint\FacadeDP.dll
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.pdb
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\FacadeDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesaginPatterns\FacadeDP\obj\Debug\net5.0\ref\FacadeDP.dll
