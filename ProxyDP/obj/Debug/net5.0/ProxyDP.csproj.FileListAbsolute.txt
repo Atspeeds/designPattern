@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\bin\Debug\net5.0\ProxyDP.exe
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\bin\Debug\net5.0\ProxyDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\bin\Debug\net5.0\ProxyDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\bin\Debug\net5.0\ProxyDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\bin\Debug\net5.0\ProxyDP.dll
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\bin\Debug\net5.0\ProxyDP.pdb
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.dll
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\refint\ProxyDP.dll
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.pdb
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ProxyDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\ProxyDP\obj\Debug\net5.0\ref\ProxyDP.dll

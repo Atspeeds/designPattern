@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\bin\Debug\net5.0\MediatorDP.exe
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\bin\Debug\net5.0\MediatorDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\bin\Debug\net5.0\MediatorDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\bin\Debug\net5.0\MediatorDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\bin\Debug\net5.0\MediatorDP.dll
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\bin\Debug\net5.0\MediatorDP.pdb
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.dll
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\refint\MediatorDP.dll
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.pdb
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\MediatorDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\MediatorDP\obj\Debug\net5.0\ref\MediatorDP.dll

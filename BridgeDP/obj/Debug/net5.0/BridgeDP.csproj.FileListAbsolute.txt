@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\bin\Debug\net5.0\BridgeDP.exe
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\bin\Debug\net5.0\BridgeDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\bin\Debug\net5.0\BridgeDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\bin\Debug\net5.0\BridgeDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\bin\Debug\net5.0\BridgeDP.dll
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\bin\Debug\net5.0\BridgeDP.pdb
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.dll
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\refint\BridgeDP.dll
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.pdb
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\BridgeDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\BridgeDP\obj\Debug\net5.0\ref\BridgeDP.dll
