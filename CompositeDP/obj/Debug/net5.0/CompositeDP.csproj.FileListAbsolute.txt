@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\bin\Debug\net5.0\CompositeDP.exe
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\bin\Debug\net5.0\CompositeDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\bin\Debug\net5.0\CompositeDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\bin\Debug\net5.0\CompositeDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\bin\Debug\net5.0\CompositeDP.dll
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\bin\Debug\net5.0\CompositeDP.pdb
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.dll
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\refint\CompositeDP.dll
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.pdb
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\CompositeDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\CompositeDP\obj\Debug\net5.0\ref\CompositeDP.dll
