@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\bin\Debug\net5.0\PrototypeDP.exe
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\bin\Debug\net5.0\PrototypeDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\bin\Debug\net5.0\PrototypeDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\bin\Debug\net5.0\PrototypeDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\bin\Debug\net5.0\PrototypeDP.dll
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\bin\Debug\net5.0\PrototypeDP.pdb
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.dll
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\refint\PrototypeDP.dll
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.pdb
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\PrototypeDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\PrototypeDP\obj\Debug\net5.0\ref\PrototypeDP.dll
