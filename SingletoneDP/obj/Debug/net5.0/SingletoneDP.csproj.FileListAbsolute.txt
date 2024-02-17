@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\bin\Debug\net5.0\SingletoneDP.exe
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\bin\Debug\net5.0\SingletoneDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\bin\Debug\net5.0\SingletoneDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\bin\Debug\net5.0\SingletoneDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\bin\Debug\net5.0\SingletoneDP.dll
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\bin\Debug\net5.0\SingletoneDP.pdb
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.dll
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\refint\SingletoneDP.dll
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.pdb
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\SingletoneDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\SingletoneDP\obj\Debug\net5.0\ref\SingletoneDP.dll
