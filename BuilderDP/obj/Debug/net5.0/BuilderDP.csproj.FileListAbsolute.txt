@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\bin\Debug\net5.0\BuilderDP.exe
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\bin\Debug\net5.0\BuilderDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\bin\Debug\net5.0\BuilderDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\bin\Debug\net5.0\BuilderDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\bin\Debug\net5.0\BuilderDP.dll
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\bin\Debug\net5.0\BuilderDP.pdb
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.dll
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\refint\BuilderDP.dll
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.pdb
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\BuilderDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\BuilderDP\obj\Debug\net5.0\ref\BuilderDP.dll
