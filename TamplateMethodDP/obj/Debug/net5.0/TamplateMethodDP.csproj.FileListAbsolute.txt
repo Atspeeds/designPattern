@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\bin\Debug\net5.0\TamplateMethodDP.exe
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\bin\Debug\net5.0\TamplateMethodDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\bin\Debug\net5.0\TamplateMethodDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\bin\Debug\net5.0\TamplateMethodDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\bin\Debug\net5.0\TamplateMethodDP.dll
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\bin\Debug\net5.0\TamplateMethodDP.pdb
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.dll
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\refint\TamplateMethodDP.dll
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.pdb
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\TamplateMethodDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\TamplateMethodDP\obj\Debug\net5.0\ref\TamplateMethodDP.dll

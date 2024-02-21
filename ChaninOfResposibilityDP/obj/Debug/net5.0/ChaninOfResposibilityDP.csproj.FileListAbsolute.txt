@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\bin\Debug\net5.0\ChaninOfResposibilityDP.exe
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\bin\Debug\net5.0\ChaninOfResposibilityDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\bin\Debug\net5.0\ChaninOfResposibilityDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\bin\Debug\net5.0\ChaninOfResposibilityDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\bin\Debug\net5.0\ChaninOfResposibilityDP.dll
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\bin\Debug\net5.0\ChaninOfResposibilityDP.pdb
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.dll
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\refint\ChaninOfResposibilityDP.dll
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.pdb
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ChaninOfResposibilityDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\ChaninOfResposibilityDP\obj\Debug\net5.0\ref\ChaninOfResposibilityDP.dll
