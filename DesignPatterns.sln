@@ -63,11 +63,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyDP", "StrategyDP\St
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemplateMethodPattern", "TemplateMethodPattern", "{9DD22535-B9FC-46A5-A8C9-B0F7DCE03D93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamplateMethodDP", "TamplateMethodDP\TamplateMethodDP.csproj", "{BFB95120-6F63-46EC-AD4E-39922349DA8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TamplateMethodDP", "TamplateMethodDP\TamplateMethodDP.csproj", "{BFB95120-6F63-46EC-AD4E-39922349DA8B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChaninOfResposibilityPattern", "ChaninOfResposibilityPattern", "{0D4B1054-35DA-4CAC-85E6-FAA1DB1B6DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaninOfResposibilityDP", "ChaninOfResposibilityDP\ChaninOfResposibilityDP.csproj", "{5FE5802B-BAC7-4933-8AF6-EBBD78647454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChaninOfResposibilityDP", "ChaninOfResposibilityDP\ChaninOfResposibilityDP.csproj", "{5FE5802B-BAC7-4933-8AF6-EBBD78647454}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommandPattern", "CommandPattern", "{884DC8C9-0524-4CEA-9680-E45D20DAF837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDP", "CommandDP\CommandDP.csproj", "{AFCAD64B-B7C5-43F9-A4AF-8139BFB1FEBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MementoPattern", "MementoPattern", "{F6459034-F3F9-47C5-88B4-0AC2279F3C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoDP", "MementoDP\MementoDP.csproj", "{BDDB861C-AAD6-45E8-BDDD-9FC089B6FF22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +151,14 @@ Global
 		{5FE5802B-BAC7-4933-8AF6-EBBD78647454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE5802B-BAC7-4933-8AF6-EBBD78647454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE5802B-BAC7-4933-8AF6-EBBD78647454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCAD64B-B7C5-43F9-A4AF-8139BFB1FEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCAD64B-B7C5-43F9-A4AF-8139BFB1FEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCAD64B-B7C5-43F9-A4AF-8139BFB1FEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCAD64B-B7C5-43F9-A4AF-8139BFB1FEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDB861C-AAD6-45E8-BDDD-9FC089B6FF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB861C-AAD6-45E8-BDDD-9FC089B6FF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB861C-AAD6-45E8-BDDD-9FC089B6FF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB861C-AAD6-45E8-BDDD-9FC089B6FF22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +181,8 @@ Global
 		{3C102A61-F338-457A-9B7F-831DB9B17CE0} = {008B6F1F-B5DC-4F8C-90FD-E2C4AC159573}
 		{BFB95120-6F63-46EC-AD4E-39922349DA8B} = {9DD22535-B9FC-46A5-A8C9-B0F7DCE03D93}
 		{5FE5802B-BAC7-4933-8AF6-EBBD78647454} = {0D4B1054-35DA-4CAC-85E6-FAA1DB1B6DA8}
+		{AFCAD64B-B7C5-43F9-A4AF-8139BFB1FEBC} = {884DC8C9-0524-4CEA-9680-E45D20DAF837}
+		{BDDB861C-AAD6-45E8-BDDD-9FC089B6FF22} = {F6459034-F3F9-47C5-88B4-0AC2279F3C3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7AB48DE4-6428-4065-948B-BB0F31E340BD}

@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\CommandDP\bin\Debug\net5.0\CommandDP.exe
+C:\Users\A\source\repos\DesignPatterns\CommandDP\bin\Debug\net5.0\CommandDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\CommandDP\bin\Debug\net5.0\CommandDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\CommandDP\bin\Debug\net5.0\CommandDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\CommandDP\bin\Debug\net5.0\CommandDP.dll
+C:\Users\A\source\repos\DesignPatterns\CommandDP\bin\Debug\net5.0\CommandDP.pdb
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.dll
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\refint\CommandDP.dll
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.pdb
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\CommandDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\CommandDP\obj\Debug\net5.0\ref\CommandDP.dll

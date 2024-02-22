@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\DesignPatterns\MementoDP\bin\Debug\net5.0\MementoDP.exe
+C:\Users\A\source\repos\DesignPatterns\MementoDP\bin\Debug\net5.0\MementoDP.deps.json
+C:\Users\A\source\repos\DesignPatterns\MementoDP\bin\Debug\net5.0\MementoDP.runtimeconfig.json
+C:\Users\A\source\repos\DesignPatterns\MementoDP\bin\Debug\net5.0\MementoDP.runtimeconfig.dev.json
+C:\Users\A\source\repos\DesignPatterns\MementoDP\bin\Debug\net5.0\MementoDP.dll
+C:\Users\A\source\repos\DesignPatterns\MementoDP\bin\Debug\net5.0\MementoDP.pdb
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.AssemblyInfo.cs
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.dll
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\refint\MementoDP.dll
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.pdb
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\MementoDP.genruntimeconfig.cache
+C:\Users\A\source\repos\DesignPatterns\MementoDP\obj\Debug\net5.0\ref\MementoDP.dll
